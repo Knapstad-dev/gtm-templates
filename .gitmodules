@@ -1,0 +1,6 @@
+[submodule "Xandr-event"]
+	path = Xandr-event
+	url = https://github.com/Knapstad/Xandr-event.git
+[submodule "Xandr-config"]
+	path = Xandr-config
+	url = https://github.com/Knapstad/Xandr-config.git
